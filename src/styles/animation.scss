@@ -1,0 +1,16 @@
+@keyframes animatesvg {
+    to{
+        transform: translate(-50%, -10px);
+    }
+}
+@keyframes upupdowndown {
+    to{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes upandown{
+    to{
+        transform: translateY(-5px);
+    }
+}

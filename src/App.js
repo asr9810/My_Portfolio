@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import { Toaster } from "react-hot-toast";
+import Contact from "./components/Contact";
+import Header, { PhoneMenu } from "./components/Header";
+import Home from "./components/Home";
+import Work from "./components/Work";
+import Skill from "./components/Skill";
+import Footer from "./components/Footer";
+import Timeline from "./components/Timeline";
+import { useState } from "react";
+
 
 function App() {
+
+  const [menuOpen, setMenuOpen] = useState(false)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <>
+    <PhoneMenu menuOpen={menuOpen} setmenuopen={setMenuOpen}/>
+    <Header setmenuopen={setMenuOpen} menuopen={menuOpen}/>
+    <Home/>
+    <Work/>
+    <Timeline/>
+    <Skill/>
+    <Contact/>
+    <Toaster/>
+    <Footer/>
+
+  </>
   );
 }
 
