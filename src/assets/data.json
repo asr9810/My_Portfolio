@@ -1,41 +1,41 @@
 {
     "projects": [
       {
-        "date": "07/10/2022",
-        "title": "TECHY STAR",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://reactone-nine.vercel.app",
-        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
-      },
-  
-      {
-        "date": "11/10/2022",
-        "title": "VIDEO HUB",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://react-video-app-eight.vercel.app",
-        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+        "date": "20/04/2023",
+        "title": "WEATHER APP",
+        "description": "This weather app, developed with JavaScript, fetches weather data from the OpenWeatherAPI. It provides accurate weather information. This project has sharpened my JavaScript.",
+        "url": "https://weather-app-js-three-xi.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2023/07/22/15/46/wheather-8143662_1280.png"
       },
       {
-        "date": "15/10/2022",
-        "title": "XCrypto",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://react-crypto-app-pi.vercel.app",
-        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
-      },
-  
-      {
-        "date": "17/10/2022",
-        "title": "REACT CART",
-        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-        "url": "https://react-cart-eosin.vercel.app",
+        "date": "06/05/2023",
+        "title": "E-Commerce",
+        "description": "This eCommerce web app done using React and SCSS to sell headphones. The app fetches data from a Strapi database and incorporates Stripe for secure payments & seamless shopping experience.",
+        "url": "https://streaming-app-sigma.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
       },
+      
       {
-        "date": "20/10/2022",
+        "date": "05/06/2023",
         "title": "PORTFOLIO",
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      },
+      {
+        "date": "10/07/2023",
+        "title": "STREAMING",
+        "description": "This web app has similar specification as youtube and other streaming application using React, Tailwind",
+        "url": "https://streaming-app-sigma.vercel.app/",
+        "imgSrc": "data:image/png;base64,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"
+      },
+      {
+        "date": "21/07/2023",
+        "title": "Food Wala",
+        "description": "This food ordering web app is built using React, SCSS CSS, and Parcel bundler. It offers a user-friendly interface, seamless navigation, and a modern design. The project showcases my growth as a developer, and I'm excited to share it with others",
+        "url": "https://food-wala-beta.vercel.app/",
+        "imgSrc": "https://scontent.fdel11-3.fna.fbcdn.net/v/t39.30808-6/237139842_221003100033497_3419952930325995270_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=t_d9nWKdHloAX8xH7iO&_nc_ht=scontent.fdel11-3.fna&oh=00_AfBM0LOpY5PgPzvrXB9vhvGnzpOfWPlHHMrWEArfuZ_PHA&oe=64C05BC1"
       }
+  
     ]
   }
