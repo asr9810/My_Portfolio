@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
             <img src={me} alt="Founder" />
             <h2>Amit Singh Rawat</h2>
-            <p>Think alway "Aukat ke bahar"</p>
+            <p>Think always out of the boudary</p>
         </div>
         <aside>
             <h2>Social media</h2>
